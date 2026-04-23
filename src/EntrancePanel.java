@@ -1,4 +1,4 @@
-package org.exampe;
+package org.example;
 
 
 import Accounts_Vehicles.Vehicle;
